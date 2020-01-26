@@ -1,1 +1,27 @@
 # main_portfolio
+
+THIS PORTFOLIO INCLUDES MY WORK. I WILL CONTINUE TO UPDATE IT WITH MORE WORK ALONG THE WAY.
+
+
+
+         <-------------------LANGUAGES USED-------------------->         
+
+
+-HTML
+
+-CSS
+
+-JAVASCRIPT
+
+-JSON
+
+-BOOTSTRAP
+
+-JQUERY
+
+
+PLEASE FEEL FREE TO USE THIS AS A MOCK UP OR ANYTHING.
+
+
+
+
